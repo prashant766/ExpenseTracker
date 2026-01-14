@@ -23,3 +23,9 @@ It allows the user to store expenses permanently in Oracle DB and view total exp
 ---
 
 ## 📂 Project Structure
+src/
+└── ExpenseTracker/
+├── Main.java
+├── Expense.java
+├── DBConnection.java
+└── ShowService.java
